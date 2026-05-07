@@ -10,7 +10,8 @@ I'm writing this not out of anger, but out of responsibility — because no one 
 
 JSitor uses GitHub OAuth for authentication. You log in with your GitHub account, and everything feels familiar, connected, safe. That single UX decision creates a powerful — and completely false — psychological impression: that your code is somehow tied to GitHub, backed up, versioned, protected.
 
-It isn't.
+The raw, naked truth. It isn't!
+
 
 The GitHub login is nothing more than an identity provider. Your snippets live exclusively in JSitor's own database. There is no sync. There is no repository. There is no safety net. The GitHub connection is a door key, not a vault.
 
@@ -66,7 +67,7 @@ Transparency isn't a weakness. The absence of it, however, is a breach of trust.
 
 ## Final Words
 
-I'm not here to condemn JSitor or its creator. Building and maintaining a public tool alone is hard, and attacks happen. But the combination of an implied safety that doesn't exist, no backup recovery, and months of silence after a data loss event is a pattern the developer community needs to talk about openly.
+I'm not here to condemn JSitor or its creator. In fact, I've praised the tool extensively in the past, and even so, for me, it remains the best tool of its kind, far better than Codepen and others of its kind. Building and maintaining a public tool alone is hard, and attacks happen. But the combination of an implied safety that doesn't exist, no backup recovery, and months of silence after a data loss event is a pattern the developer community needs to talk about openly.
 
 If this post saves even one person from losing their work, it was worth writing.
 
@@ -75,10 +76,3 @@ Back up your code. Own your data. Trust convenience tools for what they are — 
 ---
 
 *Published on GitHub as a public record. May 2026.*
-
----
-> **Note:** This page contains 1 cross-origin iframe(s) that could not be accessed due to browser security policies. Some content may be missing. Links to these iframes have been preserved where possible.
-
-
----
-Source: [Bug: Código dos snippets desapareceu. | Inner AI](https://app.innerai.com/?sessionId=a05ef390-3295-4dbe-9f7e-da7ea98f4898)
